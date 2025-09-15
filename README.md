@@ -42,5 +42,5 @@ The application demonstrates **form handling, conditional logic, and dynamic con
 ---
 
 ## Repository Structure
-├── app.py # Main web application script
-├── templates/ # HTML templates for input form and results
+- ├── app.py # Main web application script
+- ├── templates/ # HTML templates for input form and results
